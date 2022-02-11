@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xaD425C521F4f5b5699914EF6119506030BBF6eD9",
+  "SCAN_LINK": "https://polygonscan.com/token/0xaD425C521F4f5b5699914EF6119506030BBF6eD9",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Bush Bandits",
+  "SYMBOL": "BBush",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bushb",
+  "SHOW_BACKGROUND": true
+}
